@@ -4,11 +4,14 @@ id = c5828594-cd50-486a-ab03-632c08784fad
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"af3b644c-cb39-481c-a7d8-5eeb5e8b8a99","path":"Petstore reference_496708-af3b644c-cb39-481c-a7d8-5eeb5e8b8a99.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
+files[] = {"path":"my schema.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
